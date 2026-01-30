@@ -37,6 +37,23 @@
 </b></td></tr>
 </table>
 
+### [NSV SierraBay12](https://github.com/SierraBay/SierraBay12)
+[<img src="https://avatars.githubusercontent.com/u/125086274?s=200&v=4" alt="Discord" width="150" align="left">](https://discord.com/invite/rxsggTJzY3)
+Сервер **Sierra** - МРП-ХРП проект на основе BayStation. 
+Действие разворачивается в одном из секторов фронтира, где помимо основого судна Nanotrasen NSV "Sierra" находятся также авей-роли: патрульный корабль ЦПСС, воксы-мусорщики, колония, люди-мусорщики, торговый корабль, яхта, а иногда и кое-что более загадочное. 
+У нас имеется сильный упор в отыгрыше на лор, обязательный отыгрыш ксенорас и атмосфера научного судна, которые погрузят вас в историю изучения дальних космических просторов за пределами развитой цивилизации в начале двадцать четвертого века. Отзывчивая администрация и ксеномодерация поможет новичкам освоиться на сервере при переходе с других билдов.
+<table>
+<tr><td align="center" width="2000"><b>
+<a href="https://github.com/Baystation12/Baystation12">Upstream</a>
+</b></td></tr>
+<tr><td align="center" width="2000"><b>
+<a href="https://discord.gg/rxsggTJzY3">Discord</a> • 
+<a href="https://sierra.celadon.pro/">Wiki</a> • 
+<a href="https://map.celadon.pro/Sierra">Maps</a> • 
+<a href="https://boosty.to/celadon">Boosty</a>
+</b></td></tr>
+</table>
+
 <!--
 
 **Here are some ideas to get you started:**
