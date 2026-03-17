@@ -69,6 +69,21 @@
 </b></td></tr>
 </table>
 
+### [Foundation 19 | SCP](https://github.com/CeladonSS13/Foundation-19)
+[<img src="https://github.com/CeladonSS13/.github/blob/main/SCP_logo.jpg?raw=true" alt="Discord" width="150" align="left">](https://discord.com/invite/rxsggTJzY3)
+Сервер на основе [Foundation 19](https://github.com/Foundation-19/Foundation-19), посвященный SCP. Здесь вы можете вступить в роли агента Фонда, стремящегося обезопасить мир от аномальных объектов, или же сами стать одним из этих объектов, исследуемых и содержащихся. На сервере SCP вас ждут таинственные исследования, коллективное взаимодействие и постоянная неопределенность, создавая захватывающий мир, полный удивительных открытий и потенциальных угроз. И помните, наша миссия - Обезопасить, Удержать, Сохранить.
+<table>
+<tr><td align="center" width="2000"><b>
+<a href="https://github.com/Foundation-19/Foundation-19">Upstream</a>
+</b></td></tr>
+<tr><td align="center" width="2000"><b>
+<a href="https://discord.gg/rxsggTJzY3">Discord</a> • 
+<a href="https://scp.celadon.pro/">Wiki</a> • 
+<a href="https://map.celadon.pro/SCP">Maps</a> • 
+<a href="https://boosty.to/celadon">Boosty</a>
+</b></td></tr>
+</table>
+
 <!--
 
 **Here are some ideas to get you started:**
