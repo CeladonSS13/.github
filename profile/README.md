@@ -54,7 +54,7 @@
 </b></td></tr>
 </table>
 
-### [Skyrat](https://github.com/skyrat1984test/skyrat1984test)
+### [Skyrat](https://github.com/CeladonSS13/Skyrat)
 [<img src="https://github.com/CeladonSS13/.github/blob/main/Skyrat_logo.png?raw=true" alt="Discord" width="150" align="left">](https://discord.com/invite/rxsggTJzY3)
 Сервер **Skyrat** - ЛРП-МРП проект на основе билда <a href="https://github.com/Skyrat-SS13/Skyrat-tg">Skyrat TG</a>, где события разворачиваются на станции научно-исследовательского типа корпорации NanoTrasen, так же есть гост роли представленные: разведывательным аванпостом синдиката **DS-2** и малым исследовательским судном корпорации **Interdyne Pharmaceuticals**. Упор в более гибкий и расслабленный отыгрыш и большего углубления в развитие персонажа из-за очень обширной кастомизации. Добрая и активная администрация, а так же лёгкость билда поможет освоится человеку который даже ни разу не играл в Space Station 13.
 <table>
